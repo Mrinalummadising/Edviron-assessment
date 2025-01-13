@@ -1,0 +1,14 @@
+###
+GET http://localhost:5000/transactions
+###
+
+###
+GET http://localhost:5000/transactions/school/67308b27e9bbcdf5f22d24c12
+###
+
+###
+GET http://localhost:5000/check-status/test12
+###
+
+
+
